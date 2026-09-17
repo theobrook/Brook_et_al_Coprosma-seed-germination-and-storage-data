@@ -1,0 +1,34 @@
+﻿Drying treatment,Equilibrated RH (%),Moisture content (%),Germ temps,Medium,Rep,No. sown,Germ start (day),No. germ (Radicle),Germ %,Test duration (days),Last germ (day),"Viable, not germ"
+Fresh,not measured,52,Summer,WA,1,15,na,0,0,180,na,1
+Fresh,not measured,52,Summer,WA,2,14,48,2,14,180,132,4
+Fresh,not measured,52,Summer,WA,3,15,55,2,13,180,160,1
+Fresh,not measured,52,Summer,WA + GA3,1,14,55,2,14,180,104,0
+Fresh,not measured,52,Summer,WA + GA3,2,15,83,3,20,180,180,2
+Fresh,not measured,52,Summer,WA + GA3,3,13,83,1,8,180,83,1
+Fresh,not measured,52,Spring/autumn,WA,1,12,41,10,83,180,146,1
+Fresh,not measured,52,Spring/autumn,WA,2,15,55,13,87,180,174,0
+Fresh,not measured,52,Spring/autumn,WA,3,14,55,12,86,180,180,2
+Fresh,not measured,52,Spring/autumn,WA + GA3,1,14,38,8,57,180,139,2
+Fresh,not measured,52,Spring/autumn,WA + GA3,2,15,67,8,53,180,125,0
+Fresh,not measured,52,Spring/autumn,WA + GA3,3,13,55,2,15,180,104,0
+Fresh,not measured,52,Winter,WA,1,15,34,14,93,180,97,0
+Fresh,not measured,52,Winter,WA,2,14,41,14,100,180,97,0
+Fresh,not measured,52,Winter,WA,3,15,48,15,100,180,104,0
+Fresh,not measured,52,Winter,WA + GA3,1,13,48,13,100,180,111,0
+Fresh,not measured,52,Winter,WA + GA3,2,14,48,12,86,180,111,0
+Fresh,not measured,52,Winter,WA + GA3,3,14,55,12,86,180,83,0
+Regurg - Hutt1 ,not measured,not measured,Spring/autumn,WA,1,10,83,4,40,180,111,0
+Regurg - Hutt1,not measured,not measured,Move along,WA,1,8,83,6,75,367,125,0
+Regurg - Hutt2,not measured,not measured,Move along,WA,1,12,132,8,67,367,174,0
+Partially dried,65,12,Winter,WA,1,13,77,1,8,182,77,0
+Partially dried,65,12,Winter,WA,2,12,70,4,33,182,84,0
+Partially dried,65,12,Winter,WA,3,12,56,3,25,182,70,0
+Fully dried,22,5,Winter,WA,1,15,na,0,0,187,na,0
+Fully dried,22,5,Winter,WA,2,14,35,1,7,187,35,0
+Fully dried,22,5,Winter,WA,3,15,21,2,13,187,21,0
+Fresh,not measured,52,Move along,WA,1,15,67,4,27,367,118,0
+Fresh,not measured,52,Move along,WA,2,15,48,8,53,367,202,0
+Fresh,not measured,52,Move along,WA,3,15,38,9,60,367,223,0
+Fresh,not measured,52,Move along,WA + GA3,1,13,41,10,77,367,139,0
+Fresh,not measured,52,Move along,WA + GA3,2,14,55,10,71,367,181,0
+Fresh,not measured,52,Move along,WA + GA3,3,14,104,9,64,367,167,0
