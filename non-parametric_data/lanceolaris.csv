@@ -1,0 +1,31 @@
+﻿Drying treatment,Equilibrated RH (%),Moisture content (%),Temperature treatment,Medium,Replicate,Number seeds sown,First germinant (days after sowing),No. germinants (radicle),Germination %,Test duration (days),Last germ (days after sowing),No. viable non-germinated seeds,First shoot emergence (days after sowing),No. shoot emergence,Shoot emergence %
+Fresh,94,27.8,Summer,WA,1,14,na,0,0,180,na,14,na,0,0
+Fresh,94,27.8,Summer,WA,2,14,na,0,0,180,na,14,na,0,0
+Fresh,94,27.8,Summer,WA,3,15,na,0,0,180,na,14,na,0,0
+Fresh,94,27.8,Summer,WA + GA3,1,13,na,0,0,180,na,12,na,0,0
+Fresh,94,27.8,Summer,WA + GA3,2,15,na,0,0,180,na,13,na,0,0
+Fresh,94,27.8,Summer,WA + GA3,3,15,na,0,0,180,na,14,na,0,0
+Fresh,94,27.8,Spring/autumn,WA,1,15,41,6,40,180,146,9,69,6,100
+Fresh,94,27.8,Spring/autumn,WA,2,13,48,4,31,180,132,9,69,3,75
+Fresh,94,27.8,Spring/autumn,WA,3,14,34,4,29,180,97,8,48,3,75
+Fresh,94,27.8,Spring/autumn,WA + GA3,1,14,38,6,43,180,139,8,55,5,83
+Fresh,94,27.8,Spring/autumn,WA + GA3,2,15,27,7,47,180,83,8,48,7,100
+Fresh,94,27.8,Spring/autumn,WA + GA3,3,13,34,6,46,180,139,7,48,6,100
+Fresh,94,27.8,Winter,WA,1,15,21,13,87,180,48,0,55,13,100
+Fresh,94,27.8,Winter,WA,2,15,21,13,87,180,160,2,55,12,92
+Fresh,94,27.8,Winter,WA,3,15,21,15,100,180,55,0,55,15,100
+Fresh,94,27.8,Winter,WA + GA3,1,14,21,14,100,180,160,0,55,10,71
+Fresh,94,27.8,Winter,WA + GA3,2,14,21,14,100,180,97,0,55,10,71
+Fresh,94,27.8,Winter,WA + GA3,3,13,21,13,100,180,84,0,55,11,85
+Partially dried,63,6.9,Winter,WA,1,15,21,15,100,84,57,0,40,15,100
+Partially dried,63,6.9,Winter,WA,2,15,21,15,100,84,40,0,40,15,100
+Partially dried,63,6.9,Winter,WA,3,15,21,15,100,84,57,0,42,15,100
+Fully dried,25,3.4,Winter,WA,1,13,22,12,92,182,42,1,49,12,100
+Fully dried,25,3.4,Winter,WA,2,13,35,13,100,182,70,0,63,13,100
+Fully dried,25,3.4,Winter,WA,3,14,22,14,100,182,49,0,49,14,100
+Fresh,94,27.8,Move along,WA,1,14,48,10,71,367,132,3,67,8,80
+Fresh,94,27.8,Move along,WA,2,13,34,12,92,367,160,0,83,10,83
+Fresh,94,27.8,Move along,WA,3,14,34,9,64,367,125,2,48,6,67
+Fresh,94,27.8,Move along,WA + GA3,1,14,38,14,100,367,237,0,67,13,93
+Fresh,94,27.8,Move along,WA + GA3,2,11,32,11,100,367,202,0,67,11,100
+Fresh,94,27.8,Move along,WA + GA3,3,14,32,13,93,367,118,0,67,9,69
